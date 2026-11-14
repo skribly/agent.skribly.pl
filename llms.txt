@@ -1,0 +1,41 @@
+# Skribly Agent
+
+> Skribly Agent is a desktop IDE built around AI coding agents, not around files: agents side by side, tasks as files, git, pipelines, skills and audits in one window, running on your machine.
+
+Run Claude Code, Codex, Cursor Agent, Gemini CLI and nine more side by side, with tracker tasks, git, pipelines, skills, audits and a preview browser in one window. It runs on your computer, on macOS, Windows and Linux.
+
+## Pages
+
+- [Overview](https://agent.skribly.pl/): An IDE built around AI coding agents, not around files. Polish: https://agent.skribly.pl/pl/
+- [Features](https://agent.skribly.pl/features/): Every feature of Skribly Agent with a screenshot: agents side by side, terminals, code review, pipelines, plan and tasks, audits, usage, skills, MCP, privacy, themes and the tour. Polish: https://agent.skribly.pl/pl/features/
+- [Download Skribly Agent](https://agent.skribly.pl/download/): One file for each system. The first public release is in preparation, so the buttons are off for now. The installers will appear here when the first public release of Skribly Agent is out, each with its version, size and SHA-256. Polish: https://agent.skribly.pl/pl/download/
+- [Changelog](https://agent.skribly.pl/changelog/): What changed in each release of Skribly Agent, in plain words, newest first. Polish: https://agent.skribly.pl/pl/changelog/
+
+## Features
+
+- [Agents side by side](https://agent.skribly.pl/features/#agents): Workspaces, tabs and split panes, like a terminal multiplexer, and each agent says when it waits for you. Docs: https://docs.skribly.pl/agent/workspaces/
+- [Terminals and sessions](https://agent.skribly.pl/features/#terminals): Every agent runs in a real terminal, resumes after a restart, and every past session is one search away. Docs: https://docs.skribly.pl/agent/terminals/
+- [Code, changes and review](https://agent.skribly.pl/features/#code): An editor, git and diffs; note lines in a diff and send the notes to the agent in one message. Docs: https://docs.skribly.pl/agent/features/
+- [Pipelines](https://agent.skribly.pl/features/#pipelines): Several agents, from different vendors if you like, work toward one goal in stages. Docs: https://docs.skribly.pl/agent/features/
+- [Plan and tasks](https://agent.skribly.pl/features/#plan): Tasks come from your tracker as files, and the Plan view counts the checkboxes of your plan. Docs: https://docs.skribly.pl/agent/features/
+- [Audits](https://agent.skribly.pl/features/#audits): Security, accessibility and SEO checks with a score, and the findings sent to an agent as a task list. Docs: https://docs.skribly.pl/agent/audits/
+- [Usage board](https://agent.skribly.pl/features/#usage): Tokens per day, agent and project, read from the files your agents already leave. Docs: https://docs.skribly.pl/agent/features/
+- [Skills and extensions](https://agent.skribly.pl/features/#skills): Skills installed in each agent’s own format, and your own prompts, rules and commands as plain files. Docs: https://docs.skribly.pl/agent/features/
+- [MCP and the skribly command](https://agent.skribly.pl/features/#mcp): Switch any agent’s MCP servers on and off, test one, and let agents drive other agents. Docs: https://docs.skribly.pl/agent/cli/
+- [Privacy and your data](https://agent.skribly.pl/features/#privacy): One page lists every connection the app makes and every folder it touches, with a switch that turns its network calls off. Docs: https://docs.skribly.pl/agent/data-and-network/
+- [Themes and accessibility](https://agent.skribly.pl/features/#themes): Day and night themes from your editors or Open VSX, and settings for text size, contrast and motion. Docs: https://docs.skribly.pl/agent/accessibility/
+- [A guided tour](https://agent.skribly.pl/features/#tour): On the first launch the cursor shows you the app, one place at a time. Docs: https://docs.skribly.pl/agent/install/
+
+## Docs
+
+- [Install](https://docs.skribly.pl/agent/install/): Files for each system, the first launch and unsigned builds.
+- [Workspaces and panes](https://docs.skribly.pl/agent/workspaces/): Workspaces, tabs, splits, agent states and worktrees.
+- [Supported agents](https://docs.skribly.pl/agent/agents/): The 13 agents, how to install them and what each one supports.
+- [Keyboard shortcuts](https://docs.skribly.pl/agent/shortcuts/): The Ctrl+B prefix and every global shortcut.
+- [Data and network](https://docs.skribly.pl/agent/data-and-network/): What the app stores, where it connects and which ports it opens.
+- [Troubleshooting](https://docs.skribly.pl/agent/troubleshooting/): Common problems and their fixes.
+
+## Optional
+
+- [skribly.pl](https://skribly.pl/): Skribly Agent is one of the Skribly tools, with Skribly Tracker and agent-skills.
+- [Licences](https://agent.skribly.pl/licenses/): The open-source packages and fonts this site uses, with their licences. Polish: https://agent.skribly.pl/pl/licencje/
