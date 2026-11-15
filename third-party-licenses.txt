@@ -11934,11 +11934,18 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 
 ========================================================================
 
-Simple Icons 16.36.0 (the Apple and Linux icons of the download page)
+Simple Icons 16.36.0 (the os.macos and os.linux marks of the Skribly icon set)
 License: CC0-1.0
 Repository: https://github.com/simple-icons/simple-icons
 
---- LICENSE.md
+--- simple-icons.txt
+The marks os.macos and os.linux of the Skribly icon set (src/icons/svg/si-apple.svg and si-linux.svg) are copied
+unchanged from Simple Icons 16.36.0 (https://simpleicons.org, npm simple-icons@16.36.0, icons/apple.svg and
+icons/linux.svg), released under CC0 1.0 Universal; neither has a licence of its own in the Simple Icons data. The
+linux icon is Tux, first drawn by Larry Ewing with The GIMP. os.windows (sk-windows.svg, four panes) is drawn for
+Skribly. Apple, macOS, Windows and Linux are trademarks of their owners; the marks only show which system a
+build is for. The CC0 1.0 text follows.
+
 # CC0 1.0 Universal
 
 ## Statement of Purpose
